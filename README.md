@@ -21,3 +21,7 @@ A simple Tic-Tac-Toe game built with HTML, CSS, and JavaScript. The game allows 
    ```bash
    git clone https://github.com/your-username/tic-tac-toe.git
    ```
+
+
+   
+![Uploading Screenshot 2024-11-06 234443.png…]()
